@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diurnall occurrences, truly relating the most remarkable passages which have hapned in both Houses of Parliament, and other parts of this kingdome, and elsewhere. From Munday the 28 of November, to Munday the fifth of December. 1642. By H. G.</title>
+            <author>H. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85797</idno>
+            <idno type="STC">Wing G23</idno>
+            <idno type="STC">Thomason E129_2</idno>
+            <idno type="STC">ESTC P1106</idno>
+            <idno type="STC">ESTC R2216</idno>
+            <idno type="EEBO-CITATION">99871621</idno>
+            <idno type="PROQUEST">99871621</idno>
+            <idno type="VID">156268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156268)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Diurnall occurrences, truly relating the most remarkable passages which have hapned in both Houses of Parliament, and other parts of this kingdome, and elsewhere. From Munday the 28 of November, to Munday the fifth of December. 1642. By H. G.</title>
+                  <author>H. G.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Herne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 5".</note>
+                  <note>Title page contains printer's device (McK. 263).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156268:1" rendition="simple:additions"/>
+            <p>DIVRNALL OCCVRRENCES, Truly Relating The moſt Remarkable Paſſages which have hapned in both Houſes of PARLIAMENT, and other parts of this KINGDOME, and elſewhere.</p>
+            <p>From Munday the 28 of November, to Mun<g ref="char:EOLhyphen"/>day the fifth of <hi>December.</hi> 1642.</p>
+            <p>By <hi>H. G.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Richard Herne.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:156268:2"/>
+            <pb n="3" facs="tcp:156268:2"/>
+            <div type="day">
+               <head>Munday, Novemb. 28.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His day there was bickering at Mancheſter by ſome of the Earle of Dareyes follow<g ref="char:EOLhyphen"/>ers, and the Towneſ-men; but the Malig<g ref="char:EOLhyphen"/>nants were repuls'd with loſſe, the Par<g ref="char:EOLhyphen"/>liament alſo having ſet forth a very gra<g ref="char:EOLhyphen"/>cious Order for the reliefe of that good Towne and thoſe parts againſt the attempts of Papiſts.</p>
+               <p>Upon occaſion of the former Letter intercepted as afore<g ref="char:EOLhyphen"/>ſaid was raiſed a rumor that the Prince of Orange and the King of Denmarke in perſon would put to Sea this Winter, but there was no ſuch matter.</p>
+               <p>It was alſo reported that the ſaid Prince of Orange with ten thouſand ſouldiers intended to have ſurpris'd and plun<g ref="char:EOLhyphen"/>dred Amſterdam; but that when the ſouldiers perceived his purpoſe, none of them could be drawn againſt that Towne.</p>
+               <p>This day alſo came out an Order for the Lord Generals ſpeedy falling downe towards Oxford.</p>
+               <p>There was committed to cloſe priſon this day Doctor <hi>Heywood</hi> the Rector of Saint Giles in the fields for preaching and printing ſeditious Sermons: he being an Arminian, and ſometimes Chaplaine to the Archbiſhop of Canterbury.</p>
+            </div>
+            <div type="day">
+               <head>Tueſday, Novemb. 29.</head>
+               <p>FRom Weſtcheſter this day arriv'd a Poſt here with ty<g ref="char:EOLhyphen"/>dings of the proceedings of the Earle of Darby, who
+<pb n="4" facs="tcp:156268:3"/>
+has levyed all the Papiſts and Malignants in thoſe parts. As alſo relating that there has lately been a victory in Ireland obtained againſt the Rebels.</p>
+               <p>Abington in Barkeſhire was this day cruelly plundred by the Cavaliers. As alſo, a Towne of good note in Surrey cal<g ref="char:EOLhyphen"/>led Ockingham, which they rifled without mercy: the poore Inhabitants being inforced to forſake their dwellings.</p>
+               <p>An Aviſo from Calice teſtifies that Maſter <hi>larmin</hi> is very buſie in making proviſion in France of amunition and the like.</p>
+               <p>The money lent upon the laſt Contribution was this day brought in to the Lord Maior, who does ſtudy daily for the advancement of the cauſe of the Common-wealth.</p>
+               <p>To day were brought to Towne ſome ten Cavaliers taken about Reading ſide by ſome of the garriſon at Windſor.</p>
+               <p>An Order came forth alſo that all ſouldiers in and about the City of London ſhould repaire to their Colours, the Lord Generall being inſtantly to advance towards His Majeſties Army.</p>
+            </div>
+            <div type="day">
+               <head>Wedneſday, Novemb. 30.</head>
+               <p>THis day from Exceſter we underſtood Sir <hi>Ralph Hopton</hi> and the Malignants in thoſe parts are in much diſtreſſe, haaving ſo lamentably plundred the Country, that it is unable any longer to ſuſtaine them. Some parties of the Earle of New-Caſtle, as Convoyes to ſome waggons of amunition ſent from thence towards His Majeſty, were valiantly ſet upon by Maſter <hi>Hothams</hi> forces, and put into rout; the wag<g ref="char:EOLhyphen"/>gons with the amunition being ſurpris'd to a very conſide<g ref="char:EOLhyphen"/>rable value.</p>
+               <p>This day both Houſes celebrated their Faſt very devoutly at Saint <hi>Margats</hi> Weſtminſter.</p>
+               <p>There were alſo ſome Barques taken from the coaſt of Norfolke comming from Dunkirke towards the North, their lading was men and amunition.</p>
+               <p>The King this day returned from Reading towards Oxford
+<pb n="5" facs="tcp:156268:3"/>
+to provide for my Lord Generals approach, who this day ſet forward with a lawfull and couragious army, having order from the Parliament to purſue and apprehend the Cavaliers.</p>
+               <p>This day alſo hapned to our ſide a very memorable victory. Colonell <hi>Browne</hi> with his Dragoneers beating the Cavaliers out of Farnham-Caſtle in Surrey which they had fortified, taking foureſcore of them priſoners, which he ſent to Wind<g ref="char:EOLhyphen"/>for Caſtle, thence to be conveyed to London.</p>
+            </div>
+            <div type="day">
+               <head>Thurſday, Decemb. 1.</head>
+               <p>TO day came forth an Order from the High Court of Parliament concerning the ſequeſtring to the uſe of the Common-wealth the Earle of New-Caſtles eſtate. As alſo, all Rents and profits belonging to all Deanes, Prebends, and the like.</p>
+               <p>An Order alſo came forth for the feſſing of thoſe who had not yet contributed to the Common-wealth according to their eſtates; they being little better then Malignants, who in ſo great danger refuſe to part with ſomething out of their fortunes to ſerve the ſafety of the kingdome.</p>
+               <p>Some of the Cavaliers taken at Farneham-Caſtle by Colonell <hi>Browne,</hi> this afternoon were brought up to the Towne to the number of forty perſons, and diſpoſed of to ſeverall priſons.</p>
+               <p>It is reported the King has with him fifty and odde good braſſe Ordnance. Lord turne his heart from his ungraci<g ref="char:EOLhyphen"/>ous Counſellors.</p>
+               <p>To day alſo came forth a Proclamation from His Majeſty, forbidding his Cavaliers the plundring of any perſons whatſoever under the paine of his diſpleaſure, but it is con<g ref="char:EOLhyphen"/>ceiv'd only a ſcar-crow, it being impoſſible to alter their in<g ref="char:EOLhyphen"/>humane diſpoſitions.</p>
+            </div>
+            <div type="day">
+               <head>Friday, Decemb. 2.</head>
+               <p>A Poſt from my Lord <hi>Fairefax</hi> this day verified that the Earle of Cumberland would deliver up the City of York
+<pb n="6" facs="tcp:156268:4"/>
+upon the conditions which he had within incloſed, whether it will be received or no, is not yet knowne.</p>
+               <p>The City of London ſtill perſiſts in their determination of maintaining the Regiments for purſuite of the Cavaliers, men being taken on in Moore-fields in great numbers.</p>
+               <p>This day towards Evening a <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>up was ſent up the River laden with amunition, and taken at Sea by the Earle of War<g ref="char:EOLhyphen"/>wickes ſhips.</p>
+               <p>The kings Majeſty has fortified Oxford, intending as it is credibly informed, to remaine there all this Winter, though the Countrey cryes out of his Cavaliers.</p>
+               <p>This day alſo came forth a new Declaration from His Ma<g ref="char:EOLhyphen"/>jeſty, and the Parliaments anſwer thereunto, and Sir <hi>Poter K<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lligrewes</hi> returne from the King cauſed much and deep agitations in both Houſes, It is hop'd about accomodation. Drums beat up in the City and Suburbs for more ſupply for his Excellence the Earle of Eſſex, who is advanced as far as Windſor, the garriſon there being in very good plight.</p>
+            </div>
+            <div type="day">
+               <head>Saturday, Decemb. 4.</head>
+               <p>THis day came out an order from the high Court of Par<g ref="char:EOLhyphen"/>liament, commanding all thoſe who were intereſted in the collection of money, plate, and the like, to returne in up<g ref="char:EOLhyphen"/>on Munday next the account ot the ſaid money and plate, with their names who refuſe to contribute according to their abilities, that the truth of the ſaid accounts be pre<g ref="char:EOLhyphen"/>ſented to the Earle of <hi>Mancheſter,</hi> the Lord <hi>Brooke,</hi> Lord <hi>Wharton,</hi> Lord <hi>Edward Howard,</hi> and ſome members of the lower houſe.</p>
+               <p>This day was a great hnbub in <hi>Holbourne</hi> at the Globe Taverne, the ſouldiers wanting their pay, as they pretended, would have pillag'd the ſaid Taverne, but the approches of the train'd band made them deſiſt that enterpize; and then flocking about the Lord <hi>Brookes</hi> doore, and ſome mutinous words being ſpoken, one of the ſouldiers was apprehended by Captaine <hi>Harvie,</hi> who was there with his troope, but
+<pb n="7" facs="tcp:156268:4"/>
+the reſt promiſing to demeane themſelves more orderly, he was diſcharged, and the money was paid them by the right honourable, the Lord <hi>Brooke</hi> his officers.</p>
+               <p>This day was treaties in agitation about his Majeſties Anſwer to the Petition of both the houſes, printed at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> they being well inclin'd to peace, if it would pleaſe his Majeſty in any indifferent way to confide in them and their Councell.</p>
+               <p>This day clandeſtinely was reprinted a Declaraion from Prince <hi>Rupert,</hi> wherein he ſtrives to extenuate the foulenes of his former cruelties, with many falſe calumnies on the right honourable <hi>Philip,</hi> Lord <hi>Wharton,</hi> but thoſe Rodoman<g ref="char:EOLhyphen"/>tades cannot excuſe the confirm'd truth of his proceedings. It was likewiſe rumoured for certaine in <hi>Weſtminſter Hall,</hi> that <hi>Yorke</hi> was yeſterday ſurrendred to the Generall, the Lord <hi>Fairfax.</hi>
+               </p>
+               <p>There was ſome ſeven-ſcore poore fellowes, whom they terme Cavaliers, brought up to towne, bound in Carts, if the King have no better ſouldiers, we ſhall be ſure of ſudden victory.</p>
+               <p>At <hi>Plimouth</hi> came in, at it was to day certified, three dayes ſince, a ſmall veſſell from Saint <hi>Molos,</hi> which being ſearch'd, in a Sailers habit was found a ſervant of Maſter <hi>Iarmines,</hi> directed with Letters to Sir <hi>Ralph Hopton,</hi> which Letters, with the ſaid mſſenger, are comming up to the Parliament.</p>
+               <p>This day alſo came our a new Order from the right honou<g ref="char:EOLhyphen"/>rable, the high Court of Parliament, expreſly commanding all their ſouldiers, to reſtraine from plundring; as alſo an Order for reſtitution of all ſuch moneys and goods as had been formerly taken away from any man by plunder or pil<g ref="char:EOLhyphen"/>lage, with a ſtrict command to all Maiors and other Officers, to ſee the ſaid Order put in practice.</p>
+            </div>
+            <div type="day">
+               <head>Sunday, Decemb. 5.</head>
+               <p>THis day was a moſt excellent Sermon preached in <hi>Chriſt Church London,</hi> in the forenoone, the Miniſter much, and with many efficatious reaſons, perſwading the
+<pb n="8" facs="tcp:156268:5"/>
+people to a liberall contribution towards the defence of the Common-wealth, which was very well approv'd of by the audience.</p>
+               <p>A flying rumour was ſpred in the City, that Colonell <hi>Browne,</hi> who had taken <hi>Farnham Caſtle,</hi> was himſelfe taken priſoner, but it was onely rais'd by ſome malignants, to the diſhonour of that valiant Gentleman.</p>
+               <p>A Letter this day from <hi>Newcaſtle</hi> teſtifies, that the Earle and his Cavaliers are almoſt quite diſheartened by their late ill ſucceſſes, and in much feare, left the <hi>Scots</hi> on the one ſide, and my Lord <hi>Fairfax</hi> with the <hi>Yorſhire</hi> forces on the other ſide ſhould invade him, and ſo ruine his forces.</p>
+               <p>It was likewiſe this day reported, that Sir <hi>Ralph Hopton</hi> is either dead, or dangerouſly ſicke, and that Sir <hi>Bevil Green<g ref="char:EOLhyphen"/>vill</hi> and the reſt of the malignants in <hi>Cornwall,</hi> are determi<g ref="char:EOLhyphen"/>ned to breake up their army, being no longer able to conti<g ref="char:EOLhyphen"/>nue them together for want of money and other proviſion.</p>
+               <p>It was alſo reported this day by a <hi>Dutch</hi> Merchant of much credit, who arriv'd yeſterday from <hi>Holland,</hi> that the Prince of <hi>Orange,</hi> with the beſt part of his forces, is with<g ref="char:EOLhyphen"/>drawne to <hi>Breda,</hi> which being his owne towne, and Barony by inheritance, he is reſolv'd there to ſtand upon his guard, which hath given much diſtaſte to the Lords, the States of the united Provinces. The cauſe of his diſcontent, as it is ſuppoſed, being deprived of his place of high Admirall of <hi>Holland</hi> which was done by the States, left hee ſhould, ayd the malignants here againſt the high Court of Parliament.</p>
+               <p>It was alſo informed that <hi>Richelen</hi> the great <hi>French</hi> Car<g ref="char:EOLhyphen"/>dinall is for certaine deceaſed at <hi>Fontanblean</hi> this weeke.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
